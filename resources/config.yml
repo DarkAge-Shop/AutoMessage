@@ -1,0 +1,12 @@
+#Explication du plugin:
+#Permet de répéter un message ou plusieur message !
+
+
+#Nombre de secondes
+period : 120
+Message : "§6Plugin de message de répététif !"
+
+
+#Config par Default -
+#period : 120
+#Message : "§6Plugin de message de répététif !"
